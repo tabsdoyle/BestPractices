@@ -10,6 +10,7 @@ https://kubernetes.io/docs/concepts/configuration/overview/
 Docker
 
 https://docs.docker.com/develop/dev-best-practices/
+
 https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#general-guidelines-and-recommendations
 
 AWS
@@ -27,6 +28,8 @@ https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizat
 
 Trend Micro
 
-https://help.deepsecurity.trendmicro.com/Deep_Security_as_a_Service_Best_Practice_Guide.pdf
 https://cloudone.trendmicro.com/docs/
+
+Cloud One - Workload Security https://help.deepsecurity.trendmicro.com/Deep_Security_as_a_Service_Best_Practice_Guide.pdf
+
 https://success.trendmicro.com/solution/1118282-compilation-of-best-practices-while-using-trend-micro-products-for-business
