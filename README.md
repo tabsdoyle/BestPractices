@@ -24,6 +24,7 @@ https://docs.microsoft.com/en-us/azure/architecture/framework/
 GCP
 
 https://cloud.google.com/architecture/framework
+
 https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations
 
 Trend Micro
